@@ -1,4 +1,4 @@
-Package: learnr_dev
+Package: learnrdev
 Type: Package
 Title: Interactive Tutorials for R
 Version: 0.10.1.9000
